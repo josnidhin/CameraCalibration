@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <opencv_storage>
 <images>
-images/CameraCalibraation/VID5/xx1.jpg
-images/CameraCalibraation/VID5/xx2.jpg
-images/CameraCalibraation/VID5/xx3.jpg
-images/CameraCalibraation/VID5/xx4.jpg
-images/CameraCalibraation/VID5/xx5.jpg
-images/CameraCalibraation/VID5/xx6.jpg
-images/CameraCalibraation/VID5/xx7.jpg
-images/CameraCalibraation/VID5/xx8.jpg
+left01.jpg
+left02.jpg
+left03.jpg
+left04.jpg
+left05.jpg
+left06.jpg
+left07.jpg
+left08.jpg
 </images>
 </opencv_storage>
