@@ -212,12 +212,10 @@ private:
  */
 static void PrintHelp()
 {
-	cout << "Usage: CameraCalibration <config-file>" << endl
+	cout << "Usage: CameraCalibration <config-file> [-c] [-d] [-i]" << endl
 		<< " -c \t Create Config File (Follow on screen instruction)" << endl
 		<< " -d \t Print debug info" << endl
 		<< " -i \t Print intrinsic parameters" << endl;
-		//<< "Near the sample file you'll find the configuration file, which has detailed help of "
-		//"how to edit it.  It may be any OpenCV supported file format XML/YAML." << endl;
 }
 
 /**
